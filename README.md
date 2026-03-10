@@ -54,14 +54,11 @@
 
 ---
 
-## 🔄 Circle‑Style Activity
+## 🔄 My Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atomar1&show_icons=true&theme=radical&hide_border=true" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atomar1&theme=radical&hide_border=true" height="160" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomar1&layout=compact&theme=radical&hide_border=true" height="140" />
 </p>
 
