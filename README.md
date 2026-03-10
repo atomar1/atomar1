@@ -52,19 +52,6 @@
   <img src="https://img.shields.io/badge/-MongoDB-0b1120?style=for-the-badge&logo=mongodb&logoColor=47A248" />
 </p>
 
----
-
----
-
-## 🔄 My Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=atomar1&theme=radical&hide_border=true"
-    height="160"
-    alt="Ansh's GitHub streak"
-  />
-</p>
 
 
 ---
