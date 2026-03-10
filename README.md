@@ -41,17 +41,15 @@ infra: [AWS, Docker, PostgreSQL, MongoDB, Redis]
 ai: [LLMs, RAG, PyTorch, TensorFlow]
 vibes: ["ship fast", "have fun", "keep learning"]
 ```
-🤝 Open To
-Collaborating on agentic AI projects or AWS builds. [web:43][web:29]
 
-Turning half‑baked ideas into working prototypes.
+## 🤝 Open To
 
-Geeking out about tech, startups, and ambitious side projects.
+- Collaborating on agentic AI projects or AWS‑powered builds  
+- Turning half‑baked ideas into working prototypes  
+- Geeking out about tech, startups, and ambitious side projects  
 
-Reach me:
+---
 
-Email: ansh06tomar@gmail.com
+## 📬 Reach Me
 
-LinkedIn: https://www.linkedin.com/in/anshtomar
-
-GitHub: https://github.com/atomar1
+- Email: [ansh06tomar@gmail.com](mailto:ansh06tomar@gmail.com)  
