@@ -54,25 +54,19 @@
 
 ---
 
+---
+
 ## 🔄 My Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=atomar1&show_icons=true&theme=radical&hide_border=true"
-    height="160"
-    alt="Ansh's GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=atomar1&theme=radical&hide_border=true"
-    height="160"
-    alt="Ansh's GitHub streak"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=atomar1&theme=react-dark&hide_border=true"
+    alt="Ansh's GitHub activity graph"
   />
 </p>
 
 ---
+
 
 ## 🤝 Open To
 
