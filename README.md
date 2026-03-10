@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠️ Current Stack (Circle Vibes)
+## 🛠️ Current Stack 
 
 <p align="center">
   <img src="https://img.shields.io/badge/-TypeScript-2b2b2b?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -67,12 +67,6 @@
 
 ---
 
-## 💼 What I’m Doing Now
-
-I work as a software engineer building full‑stack and AI‑powered systems — from APIs and data pipelines to the UX that people actually touch. I care a lot about reliability, DX, and shipping things that feel fast and intentional.  
-
----
-
 ## 🤝 Open To
 
 - Collaborating on agentic AI projects or AWS‑powered builds  
@@ -84,5 +78,3 @@ I work as a software engineer building full‑stack and AI‑powered systems —
 ## 📬 Reach Me
 
 - Email: [ansh06tomar@gmail.com](mailto:ansh06tomar@gmail.com)  
-- LinkedIn: [https://www.linkedin.com/in/anshtomar](https://www.linkedin.com/in/anshtomar)  
-- GitHub: [https://github.com/atomar1](https://github.com/atomar1)
