@@ -40,3 +40,18 @@ backend: [Node.js, FastAPI, Spring Boot]
 infra: [AWS, Docker, PostgreSQL, MongoDB, Redis]
 ai: [LLMs, RAG, PyTorch, TensorFlow]
 vibes: ["ship fast", "have fun", "keep learning"]
+```
+🤝 Open To
+Collaborating on agentic AI projects or AWS builds. [web:43][web:29]
+
+Turning half‑baked ideas into working prototypes.
+
+Geeking out about tech, startups, and ambitious side projects.
+
+Reach me:
+
+Email: ansh06tomar@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/anshtomar
+
+GitHub: https://github.com/atomar1
