@@ -1,46 +1,77 @@
 # Hey, I'm Ansh 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Agentic+AI+%7C+Full‑Stack+%7C+AWS+Builder;Always+shipping+the+next+idea)
-
-**Agentic AI + full‑stack + cloud** — I like turning ideas into working products and pushing technology until something interesting falls out.  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Agentic+AI+Builder;Full%E2%80%91Stack+%26+Cloud+Engineer;Always+shipping+the+next+idea)
 
 ---
 
 ## ⚡ What I’m Into
 
-- Agentic AI systems that plan, act, and iterate (not just “chat”). [web:34][web:40][web:43][web:37]  
-- Building things end‑to‑end: idea → prototype → real users.  
-- AWS and cloud infra, especially when it unlocks new product ideas.  
-- Staying very close to the code and the people using it.  
+- Agentic AI systems that plan, act, and iterate (not just “chatbots”)  
+- Building ideas end‑to‑end: concept → prototype → real users  
+- AWS, cloud infra, and anything that lets me ship faster  
+- Just genuinely **very** passionate about technology  
 
 ---
 
-## 🏅 Small Flexes
+## 🏅 A Little About Me
 
-- 🧠 AWS **10000 AIdeas** semifinalist (global AI builder competition). [web:29][web:32][web:39]  
-- 💭 Really into agentic workflows, tool use, and “LLMs that actually *do* things.” [web:34][web:40][web:37][web:43]  
-- 💡 Very, very passionate about technology and building useful things.  
-
----
-
-## 🧪 What I Like to Build
-
-- Agentic AI tools for developers (code understanding, commit intelligence, repo‑level helpers). [web:34][web:40][web:37]  
-- Apps that mix maps, real‑time data, and ML (disasters, climate, infra, etc.).  
-- Clean APIs and backends that are easy to iterate on.  
+- AWS **10000 AIdeas** semifinalist  
+- Strong interest in agentic workflows and “LLMs that actually do things”  
+- I enjoy projects that feel slightly overkill for a solo dev (in a good way)  
 
 ---
 
-## 🛠️ Current Stack Mood
+## 🧠 What I Like to Build
 
-```yaml
-languages: [TypeScript, Python, Java, C++]
-frontend: [React, Next.js, Tailwind CSS]
-backend: [Node.js, FastAPI, Spring Boot]
-infra: [AWS, Docker, PostgreSQL, MongoDB, Redis]
-ai: [LLMs, RAG, PyTorch, TensorFlow]
-vibes: ["ship fast", "have fun", "keep learning"]
-```
+- Agentic AI tools for developers (code understanding, commit intelligence, repo helpers)  
+- Apps that mix maps, real‑time data, and ML (disasters, environment, infra)  
+- Clean APIs and backends that are fun to work with  
+
+---
+
+## 🛠️ Current Stack (Circle Vibes)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-TypeScript-2b2b2b?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-2b2b2b?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-2b2b2b?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-2b2b2b?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=68A063" />
+  <img src="https://img.shields.io/badge/-FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=009688" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-AWS-0b1120?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/-Docker-0b1120?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-0b1120?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/-MongoDB-0b1120?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+</p>
+
+---
+
+## 🔄 Circle‑Style Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atomar1&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atomar1&theme=radical&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomar1&layout=compact&theme=radical&hide_border=true" height="140" />
+</p>
+
+---
+
+## 💼 What I’m Doing Now
+
+I work as a software engineer building full‑stack and AI‑powered systems — from APIs and data pipelines to the UX that people actually touch. I care a lot about reliability, DX, and shipping things that feel fast and intentional.  
+
+---
 
 ## 🤝 Open To
 
@@ -53,3 +84,5 @@ vibes: ["ship fast", "have fun", "keep learning"]
 ## 📬 Reach Me
 
 - Email: [ansh06tomar@gmail.com](mailto:ansh06tomar@gmail.com)  
+- LinkedIn: [https://www.linkedin.com/in/anshtomar](https://www.linkedin.com/in/anshtomar)  
+- GitHub: [https://github.com/atomar1](https://github.com/atomar1)
